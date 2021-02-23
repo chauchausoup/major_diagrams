@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-23T13:52:55.831Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="q8VJRTsZu4y7ilTF-IBt" version="14.4.2" type="github">
+<mxfile modified="2021-02-23T13:53:28.214Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="jrXsgE7vdFfh5Tza7vId" version="14.4.2" type="github">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="Page-1">
     <mxGraphModel dx="1373" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -122,8 +122,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iwAeKexIMEz0xaiRDyKj-47" value="&lt;span style=&quot;font-size: 22px&quot;&gt;cc camera&lt;br&gt;network&lt;br&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="59" y="498" width="120" height="40" as="geometry" />
+        <mxCell id="iwAeKexIMEz0xaiRDyKj-47" value="&lt;span style=&quot;font-size: 22px&quot;&gt;cc cameras&lt;br&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="54" y="508" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iwAeKexIMEz0xaiRDyKj-51" value="&lt;span style=&quot;font-size: 22px&quot;&gt;big data&lt;br&gt;processing&lt;br&gt;engine&lt;br&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="721" y="105" width="120" height="60" as="geometry" />
