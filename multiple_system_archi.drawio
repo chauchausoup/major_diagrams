@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T05:23:13.221Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="mTF_MZ0r6puoRuJ3VBdy" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T06:33:12.097Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="CG_RHgpdLbnP8rrRBA8o" version="14.4.4" type="github">
   <diagram id="s4Mz6qUca2_cWURdLJD1" name="Page-1">
-    <mxGraphModel dx="1373" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1373" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,7 +92,7 @@
         <mxCell id="3Pp9X1T8N0z9BwkAbIre-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.692;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=22;spacing=6;spacingTop=4;opacity=70;" parent="1" source="3Pp9X1T8N0z9BwkAbIre-25" target="3Pp9X1T8N0z9BwkAbIre-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Pp9X1T8N0z9BwkAbIre-25" value="Bhattacharya Distance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;spacing=6;spacingTop=4;opacity=70;" parent="1" vertex="1">
+        <mxCell id="3Pp9X1T8N0z9BwkAbIre-25" value="Bhattacharyya Distance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;spacing=6;spacingTop=4;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="170" y="610" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3Pp9X1T8N0z9BwkAbIre-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;spacing=6;spacingTop=4;opacity=70;" parent="1" source="3Pp9X1T8N0z9BwkAbIre-28" target="3Pp9X1T8N0z9BwkAbIre-29" edge="1">
@@ -113,7 +113,7 @@
         <mxCell id="3Pp9X1T8N0z9BwkAbIre-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=22;spacing=6;spacingTop=4;opacity=70;" parent="1" source="3Pp9X1T8N0z9BwkAbIre-32" target="3Pp9X1T8N0z9BwkAbIre-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Pp9X1T8N0z9BwkAbIre-32" value="Bhattacharya Distance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;spacing=6;spacingTop=4;opacity=70;" parent="1" vertex="1">
+        <mxCell id="3Pp9X1T8N0z9BwkAbIre-32" value="Bhattacharyya Distance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;spacing=6;spacingTop=4;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="425" y="610" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3Pp9X1T8N0z9BwkAbIre-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;spacing=6;spacingTop=4;opacity=70;" parent="1" source="3Pp9X1T8N0z9BwkAbIre-34" target="3Pp9X1T8N0z9BwkAbIre-37" edge="1">
@@ -179,7 +179,7 @@
         <mxCell id="3Pp9X1T8N0z9BwkAbIre-47" value="Dissimilarity &lt;br&gt;for &lt;br&gt;current &lt;br&gt;image" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;spacing=6;spacingTop=4;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="870" y="610" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3Pp9X1T8N0z9BwkAbIre-49" value="Bhattacharya distance across cameras" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;spacing=6;spacingTop=4;opacity=70;" parent="1" vertex="1">
+        <mxCell id="3Pp9X1T8N0z9BwkAbIre-49" value="Bhattacharyya distance across cameras" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;spacing=6;spacingTop=4;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="700" y="980" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3Pp9X1T8N0z9BwkAbIre-52" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 22px&quot;&gt;&lt;i&gt;Detection&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;arcSize=10;html=1;fontSize=22;align=center;fontStyle=0;fontSize=11;spacing=6;spacingTop=4;fillColor=#fff2cc;strokeColor=#d6b656;opacity=70;" parent="1" vertex="1">
